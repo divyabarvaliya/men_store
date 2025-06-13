@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       initialBinding: AppBidding(),
       debugShowCheckedModeBanner: false,
-      title: 'Luxury Car Rental',
+      title: 'Men Store',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
       ),
